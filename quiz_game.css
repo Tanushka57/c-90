@@ -1,0 +1,37 @@
+#player_1_name_input,#player_2_name_input{
+    width: 300px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: black;
+}
+#bu{
+    border-radius: 50px;
+    background-color:darkmagenta;
+    color:black ;
+}
+#di{
+    width: 300px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+
+#player1_name , #player2_name {
+	display: inline-block;
+	margin-left: 20px;
+}
+#word {
+	width: 60%;
+}
+#word_display {
+	letter-spacing: 5px;
+}
+#output {
+	background:white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
